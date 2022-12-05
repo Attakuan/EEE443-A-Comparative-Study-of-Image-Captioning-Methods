@@ -11,6 +11,12 @@ validation loss graphs are obtained for each model and their BLEU scores are cal
 to compare the performances of the models. Overall, we were able to train and test six networks and compare their
 performances in order to decide on the model with the best performance.
 
+## Example Results
+
+
+![](https://github.com/Attakuan/EEE443-A-Comparative-Study-of-Image-Captioning-Methods/blob/main/ExampleImg.jpg)
+
+![](https://github.com/Attakuan/EEE443-A-Comparative-Study-of-Image-Captioning-Methods/blob/main/ExampleImg2.jpg)
 
 ## Installation
 
